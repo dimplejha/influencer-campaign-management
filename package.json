@@ -1,0 +1,21 @@
+{
+  "name": "influencer-campaign-management",
+  "version": "1.0.0",
+  "description": "Design and describe a database design and microservice backend architecture for an Influencer Campaign Management Platform that starts with finding the influencer, contacting them, sending requirements, chat, campaign tracking, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
